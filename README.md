@@ -31,7 +31,7 @@ You are permitted to use AI tools such as GitHub Copilot, ChatGPT, or others to 
 ## Submitting your work
 
 You have multiple options for submitting your work:
-1. If you used GitHub Codespaces, you can simply push your changes to a fork of this repository and share the link with us. This is also the reccomended option if you used Dev Containers locally.
+1. If you used GitHub Codespaces, you can simply push your changes to a fork of this repository and share the link with us. This is also the reccomended option if you used Dev Containers locally. Do not make a pull request; just share the link to your forked repository.
 2. If you would prefer not to make a public repository on GitHub, you can send us the diff of your changes as a patch file. You can create a patch file by running the following command from the root of the repository:
    ```bash
    git diff > submission.patch
