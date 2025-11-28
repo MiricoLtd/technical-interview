@@ -4,7 +4,7 @@ This repository contains the base code for technical interviews at Mirico.
 
 ## Installing
 
-The recommended way to use this repository is through GitHub Codespaces or Dev Containers. To get started, simply open this repository in GitHub Codespaces or clone it locally and open it in VS Code with the Dev Containers extension installed.
+The recommended way to use this repository is through GitHub Codespaces or Dev Containers. To get started, simply open this repository in GitHub Codespaces or clone it locally and open it in VS Code with the Dev Containers extension installed. See the video below for an example of setting up a Codespace.
 
 There is no requirement to use Codespaces or Dev Containers, but they provide a convenient way to set up a consistent development environment.
 
