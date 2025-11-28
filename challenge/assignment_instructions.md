@@ -51,8 +51,9 @@ Contains observed methane concentration data and relevant environmental readings
 Contains time windows of actual controlled methane releases representing anomalous emission events.
 - 'kg/h' refers to the rate of the controlled release
 
-### Mirico_site_layout.png
+### Site Layout
 An image of the actual site layout of Mirico retro reflectors (R1 to R14), and the sensor itself (NG5) for context.
+![Site Layout](Mirico_site_layout.png)
 
 ---
 
